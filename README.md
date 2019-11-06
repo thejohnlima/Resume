@@ -26,3 +26,49 @@
 <p align="center">
 I'm passionate about technology, science, developing things that improve people's lives and make the world a better place. I've been working with mobile development for iOS platform since 2014 with experience on all steps of iOS development, from the concept of the ideas until releasing the app on the store and following the results with analytics, tests and crashreports.
 </p>
+
+<h1 align="center">Work Experience</h1>
+
+<p align="center">
+ <img src="./images/PagBank/logo.png" alt="App Icon" width="100" height="100">
+</p>
+
+<h3 align="center">PagBank - PagSeguro</h3>
+
+<p align="center">
+ <a href="https://itunes.apple.com/br/app/pagseguro/id1186059012">
+  <img src="./images/app_store_badge.png" alt="App Store Badge" width="129" height="40">
+ </a>
+</p>
+
+<p align="center">
+ PagBank is a very popular digital bank located in Brazil.<br>
+ I'm working in this project since 2018 using Swift, web services integration, external frameworks, analytics implementation, SwiftLint, UnitTest, UITest, MVVM-C, git, code review, Jira, Jenkins and fastlane.
+</p>
+
+<p align="center">
+ <img src="./images/PagBank/home.png" alt="Screenshot" width="220" height="417">
+ <img src="./images/PagBank/sales.png" alt="Screenshot" width="220" height="417">
+</p>
+
+<p align="center">
+ <img src="./images/Vendas/logo.png" alt="App Icon" width="100" height="100">
+</p>
+
+<h3 align="center">Vendas - PagSeguro</h3>
+
+<p align="center">
+ <a href="https://itunes.apple.com/br/app/pagseguro-vendas/id578294843">
+  <img src="./images/app_store_badge.png" alt="App Store Badge" width="129" height="40">
+ </a>
+</p>
+
+<p align="center">
+ PagSeguro Vendas is great app located in Brazil, used by a salesperson.<br>
+ I'm working in this project since 2018 using Swift, external frameworks, SwiftLint, UnitTest, UITest, Viper, reactive programming, git, code review, Jira, Jenkins and fastlane.
+</p>
+
+<p align="center">
+ <img src="./images/Vendas/home.png" alt="Screenshot" width="220" height="417">
+ <img src="./images/Vendas/reports.png" alt="Screenshot" width="220" height="417">
+</p>
