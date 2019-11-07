@@ -72,3 +72,20 @@ I'm passionate about technology, science, developing things that improve people'
  <img src="./images/Vendas/home.png" alt="Screenshot" width="220" height="417">
  <img src="./images/Vendas/reports.png" alt="Screenshot" width="220" height="417">
 </p>
+
+<h1 align="center">Open Source Projects</h1>
+
+<p align="center">
+ <img src="./images/github.png" alt="App Icon" height="100">
+</p>
+
+<h3 align="center">Frameworks</h3>
+
+<p align="center">
+ <a href="https://github.com/thejohnlima/BaseNetworkKit"><b>BaseNetworkKit</b></a><br>
+ <a href="https://github.com/thejohnlima/BaseTracking"><b>BaseTracking</b></a><br>
+ <a href="https://github.com/thejohnlima/LMLoading"><b>LMLoading</b></a><br>
+ <a href="https://github.com/thejohnlima/ObservableKit"><b>ObservableKit</b></a><br>
+ <a href="https://github.com/thejohnlima/PickImageAlert"><b>PickImageAlert</b></a><br>
+ <a href="https://github.com/thejohnlima/SWMailgun"><b>SWMailgun</b></a><br>
+</p>
